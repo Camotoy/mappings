@@ -1537,7 +1537,8 @@
     "bedrock_identifier": "minecraft:carved_pumpkin",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4325,
-    "lastBlockRuntimeId": 4328
+    "lastBlockRuntimeId": 4328,
+    "equipment_slot": "HEAD"
   },
   "minecraft:jack_o_lantern": {
     "bedrock_identifier": "minecraft:lit_pumpkin",
@@ -3916,7 +3917,8 @@
     "max_damage": 432,
     "repair_materials": [
       "minecraft:phantom_membrane"
-    ]
+    ],
+    "equipment_slot": "CHEST"
   },
   "minecraft:oak_boat": {
     "bedrock_identifier": "minecraft:oak_boat",
@@ -4009,7 +4011,8 @@
     "protection_value": 2,
     "repair_materials": [
       "minecraft:scute"
-    ]
+    ],
+    "equipment_slot": "HEAD"
   },
   "minecraft:scute": {
     "bedrock_identifier": "minecraft:scute",
@@ -4525,7 +4528,8 @@
     "protection_value": 1,
     "repair_materials": [
       "minecraft:leather"
-    ]
+    ],
+    "equipment_slot": "HEAD"
   },
   "minecraft:leather_chestplate": {
     "bedrock_identifier": "minecraft:leather_chestplate",
@@ -4536,7 +4540,8 @@
     "protection_value": 3,
     "repair_materials": [
       "minecraft:leather"
-    ]
+    ],
+    "equipment_slot": "CHEST"
   },
   "minecraft:leather_leggings": {
     "bedrock_identifier": "minecraft:leather_leggings",
@@ -4547,7 +4552,8 @@
     "protection_value": 2,
     "repair_materials": [
       "minecraft:leather"
-    ]
+    ],
+    "equipment_slot": "LEGS"
   },
   "minecraft:leather_boots": {
     "bedrock_identifier": "minecraft:leather_boots",
@@ -4558,7 +4564,8 @@
     "protection_value": 1,
     "repair_materials": [
       "minecraft:leather"
-    ]
+    ],
+    "equipment_slot": "FEET"
   },
   "minecraft:chainmail_helmet": {
     "bedrock_identifier": "minecraft:chainmail_helmet",
@@ -4569,7 +4576,8 @@
     "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "HEAD"
   },
   "minecraft:chainmail_chestplate": {
     "bedrock_identifier": "minecraft:chainmail_chestplate",
@@ -4580,7 +4588,8 @@
     "protection_value": 5,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "CHEST"
   },
   "minecraft:chainmail_leggings": {
     "bedrock_identifier": "minecraft:chainmail_leggings",
@@ -4591,7 +4600,8 @@
     "protection_value": 4,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "LEGS"
   },
   "minecraft:chainmail_boots": {
     "bedrock_identifier": "minecraft:chainmail_boots",
@@ -4602,7 +4612,8 @@
     "protection_value": 1,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "FEET"
   },
   "minecraft:iron_helmet": {
     "bedrock_identifier": "minecraft:iron_helmet",
@@ -4613,7 +4624,8 @@
     "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "HEAD"
   },
   "minecraft:iron_chestplate": {
     "bedrock_identifier": "minecraft:iron_chestplate",
@@ -4624,7 +4636,8 @@
     "protection_value": 6,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "CHEST"
   },
   "minecraft:iron_leggings": {
     "bedrock_identifier": "minecraft:iron_leggings",
@@ -4635,7 +4648,8 @@
     "protection_value": 5,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "LEGS"
   },
   "minecraft:iron_boots": {
     "bedrock_identifier": "minecraft:iron_boots",
@@ -4646,7 +4660,8 @@
     "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
-    ]
+    ],
+    "equipment_slot": "FEET"
   },
   "minecraft:diamond_helmet": {
     "bedrock_identifier": "minecraft:diamond_helmet",
@@ -4657,7 +4672,8 @@
     "protection_value": 3,
     "repair_materials": [
       "minecraft:diamond"
-    ]
+    ],
+    "equipment_slot": "HEAD"
   },
   "minecraft:diamond_chestplate": {
     "bedrock_identifier": "minecraft:diamond_chestplate",
@@ -4668,7 +4684,8 @@
     "protection_value": 8,
     "repair_materials": [
       "minecraft:diamond"
-    ]
+    ],
+    "equipment_slot": "CHEST"
   },
   "minecraft:diamond_leggings": {
     "bedrock_identifier": "minecraft:diamond_leggings",
@@ -4679,7 +4696,8 @@
     "protection_value": 6,
     "repair_materials": [
       "minecraft:diamond"
-    ]
+    ],
+    "equipment_slot": "LEGS"
   },
   "minecraft:diamond_boots": {
     "bedrock_identifier": "minecraft:diamond_boots",
@@ -4690,7 +4708,8 @@
     "protection_value": 3,
     "repair_materials": [
       "minecraft:diamond"
-    ]
+    ],
+    "equipment_slot": "FEET"
   },
   "minecraft:golden_helmet": {
     "bedrock_identifier": "minecraft:golden_helmet",
@@ -4701,7 +4720,8 @@
     "protection_value": 2,
     "repair_materials": [
       "minecraft:gold_ingot"
-    ]
+    ],
+    "equipment_slot": "HEAD"
   },
   "minecraft:golden_chestplate": {
     "bedrock_identifier": "minecraft:golden_chestplate",
@@ -4712,7 +4732,8 @@
     "protection_value": 5,
     "repair_materials": [
       "minecraft:gold_ingot"
-    ]
+    ],
+    "equipment_slot": "CHEST"
   },
   "minecraft:golden_leggings": {
     "bedrock_identifier": "minecraft:golden_leggings",
@@ -4723,7 +4744,8 @@
     "protection_value": 3,
     "repair_materials": [
       "minecraft:gold_ingot"
-    ]
+    ],
+    "equipment_slot": "LEGS"
   },
   "minecraft:golden_boots": {
     "bedrock_identifier": "minecraft:golden_boots",
@@ -4734,7 +4756,8 @@
     "protection_value": 1,
     "repair_materials": [
       "minecraft:gold_ingot"
-    ]
+    ],
+    "equipment_slot": "FEET"
   },
   "minecraft:netherite_helmet": {
     "bedrock_identifier": "minecraft:netherite_helmet",
@@ -4745,7 +4768,8 @@
     "protection_value": 3,
     "repair_materials": [
       "minecraft:netherite_ingot"
-    ]
+    ],
+    "equipment_slot": "HEAD"
   },
   "minecraft:netherite_chestplate": {
     "bedrock_identifier": "minecraft:netherite_chestplate",
@@ -4756,7 +4780,8 @@
     "protection_value": 8,
     "repair_materials": [
       "minecraft:netherite_ingot"
-    ]
+    ],
+    "equipment_slot": "CHEST"
   },
   "minecraft:netherite_leggings": {
     "bedrock_identifier": "minecraft:netherite_leggings",
@@ -4767,7 +4792,8 @@
     "protection_value": 6,
     "repair_materials": [
       "minecraft:netherite_ingot"
-    ]
+    ],
+    "equipment_slot": "LEGS"
   },
   "minecraft:netherite_boots": {
     "bedrock_identifier": "minecraft:netherite_boots",
@@ -4778,7 +4804,8 @@
     "protection_value": 3,
     "repair_materials": [
       "minecraft:netherite_ingot"
-    ]
+    ],
+    "equipment_slot": "FEET"
   },
   "minecraft:flint": {
     "bedrock_identifier": "minecraft:flint",
@@ -5586,7 +5613,7 @@
     "bedrock_data": 0
   },
   "minecraft:trader_llama_spawn_egg": {
-    "bedrock_identifier": "minecraft:trader_llama_spawn_egg",
+    "bedrock_identifier": "minecraft:llama_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:tropical_fish_spawn_egg": {
@@ -5712,37 +5739,43 @@
     "bedrock_identifier": "minecraft:skull",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 7107,
-    "lastBlockRuntimeId": 7122
+    "lastBlockRuntimeId": 7122,
+    "equipment_slot": "HEAD"
   },
   "minecraft:wither_skeleton_skull": {
     "bedrock_identifier": "minecraft:skull",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 7127,
-    "lastBlockRuntimeId": 7142
+    "lastBlockRuntimeId": 7142,
+    "equipment_slot": "HEAD"
   },
   "minecraft:player_head": {
     "bedrock_identifier": "minecraft:skull",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 7167,
-    "lastBlockRuntimeId": 7182
+    "lastBlockRuntimeId": 7182,
+    "equipment_slot": "HEAD"
   },
   "minecraft:zombie_head": {
     "bedrock_identifier": "minecraft:skull",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 7147,
-    "lastBlockRuntimeId": 7162
+    "lastBlockRuntimeId": 7162,
+    "equipment_slot": "HEAD"
   },
   "minecraft:creeper_head": {
     "bedrock_identifier": "minecraft:skull",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 7187,
-    "lastBlockRuntimeId": 7202
+    "lastBlockRuntimeId": 7202,
+    "equipment_slot": "HEAD"
   },
   "minecraft:dragon_head": {
     "bedrock_identifier": "minecraft:skull",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 7207,
-    "lastBlockRuntimeId": 7222
+    "lastBlockRuntimeId": 7222,
+    "equipment_slot": "HEAD"
   },
   "minecraft:nether_star": {
     "bedrock_identifier": "minecraft:nether_star",
@@ -6020,7 +6053,8 @@
       "minecraft:mangrove_planks",
       "minecraft:crimson_planks",
       "minecraft:warped_planks"
-    ]
+    ],
+    "equipment_slot": "OFFHAND"
   },
   "minecraft:totem_of_undying": {
     "bedrock_identifier": "minecraft:totem_of_undying",
